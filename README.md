@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SwethaSri07
-- 👀 I’m interested in ...exploring application development
-- 🌱 I’m currently learning ...Software Development
-- 💞️ I’m looking to collaborate on ...web dev projects
+- 👀 I’m interested in ...exploring Software development
+- 🌱 I’m currently learning ...Android Development
 - 📫 How to reach me ...sri7swetha@gmail.com
 
 <!---
